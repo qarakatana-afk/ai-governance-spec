@@ -176,3 +176,45 @@ This spec is meant to be **practical, not theoretical.**
 ---
 
 # Project Structure
+ai-governance-spec/
+
+README.md
+operational_governance_spec.pdf
+
+principles.md
+behavior_rules.md
+cognitive_rules.md
+failure_rules.md
+interaction_patterns.md
+
+
+*(Structure will expand over time.)*
+
+---
+
+# Guiding Philosophy
+
+Good AI answers questions.
+
+**Reliable AI improves how questions get asked.**
+
+---
+
+# Future Additions
+
+Planned expansions:
+
+- Example interaction library
+- AI workflow integration patterns
+- Governance anti-patterns
+- Failure case examples
+- Decision support patterns
+
+---
+
+# About
+
+Created by **Que Armendariz**  
+AI Systems & Workflow Governance  
+
+**QaraKatana AI**
